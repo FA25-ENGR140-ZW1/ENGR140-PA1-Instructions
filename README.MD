@@ -29,7 +29,6 @@ Using if-else statements:
 ### Part 4: Account Fees
 Apply these rules with if-else statements:
 - Checking accounts with balance below $500: $10 monthly fee
-- Savings accounts with more than 3 withdrawals: $5 per extra withdrawal
 - All accounts: $25 fee for returned transactions
 
 ## Sample Output
@@ -72,6 +71,7 @@ New balance: $950.00
 2. Add a "transfer between accounts" option
 3. Implement a simple PIN verification system
 4. Add transaction history display
+5.  Savings accounts with more than 3 withdrawals: $5 per extra withdrawal
 
 ## Test Cases
 Your program should handle:
